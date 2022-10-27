@@ -1,0 +1,8 @@
+export const constants = {
+  LOADING: "LOADING",
+  SET_LOADING: "SET_LOADING",
+  GET_FILE_LINK: "GET_FILE_LINK",
+  GET_ROOTS: "GET_ROOTS",
+  GET_ROOT: "GET_ROOT",
+  SET_ROOTS: "SET_ROOTS",
+};
